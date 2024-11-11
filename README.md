@@ -31,6 +31,6 @@ mail: sample@test.org  password: password
 
 - [x] build physical replication cluster
 - [x] create table with sample data at startup.
-- [ ] manupulate by PgAdmin
+- [x] manupulate by PgAdmin
 - [ ] build logical replication cluster
 - [ ] test failsafe
